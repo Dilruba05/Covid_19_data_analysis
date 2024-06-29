@@ -59,4 +59,4 @@ By studying COVID-19 data, this project opens doors to a deeper understanding of
 ---
 
 Feel free to reach out if you have any questions or suggestions!
-Images: ![COVID-19 Data Analysis](images/covid19_analysis.png)
+Images: ![COVID-19 Data Analysis](Images/covid19_analysis.png)
